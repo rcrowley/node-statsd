@@ -11,7 +11,6 @@
 , "directories" : { "lib" : "./lib/" }
 , "main" : "./lib/statsd"
 , "engines" : { "node" : ">=0.1.97" }
-, "dependencies" : { "mersenne" : "*" }
 , "licenses" :
   [ { "type" : "MIT"
     , "url" : "http://github.com/sivy/node-stats/raw/master/LICENSE"
